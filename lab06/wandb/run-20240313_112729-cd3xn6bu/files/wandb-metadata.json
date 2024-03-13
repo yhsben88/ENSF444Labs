@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.9.6",
+    "heartbeatAt": "2024-03-13T17:27:30.651384",
+    "startedAt": "2024-03-13T17:27:29.808896",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/yhsben88/ENSF444Labs.git",
+        "commit": "49c7e7facc3a8ce9d42b3a0633efe95bab64b73f"
+    },
+    "email": "hiusum.yuen@ucalgary.ca",
+    "root": "/Users/ben/Desktop/ENSF444/ENSF444Labs",
+    "host": "hius-air.ucalgary.ca",
+    "username": "ben",
+    "executable": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.42840576171875
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

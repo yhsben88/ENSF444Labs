@@ -1,0 +1,1 @@
+{"Algorithm": "svm", "_timestamp": 1710350869.867636, "_runtime": 1.9984419345855713, "_step": 4, "Best F1 Score": 0.7957834085404196, "Best Parameters": {"classifier__C": 10, "classifier__kernel": "rbf"}, "Test Accuracy": 0.7832167832167832, "Test F1 Score": 0.7304347826086957}
